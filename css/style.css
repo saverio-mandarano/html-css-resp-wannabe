@@ -147,6 +147,15 @@ img {
   }
   .lessons .col {
     width: 100%;
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
+  }
+
+  .steps .col {
+    width: 100%;
+    margin-bottom: 5rem;
+  }
+
+  .steps .col img {
+    height: 200px;
   }
 }
