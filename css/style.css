@@ -176,7 +176,7 @@ img {
 
   .why-us {
     margin-bottom: 0;
-    padding-bottom: 8rem;
+    padding-bottom: 4rem;
     background-color: rgb(34, 34, 34);
   }
 
@@ -184,20 +184,12 @@ img {
     margin-bottom: 0;
     padding-bottom: 4rem;
   }
-}
 
-/* .why-us {
-  margin-bottom: 3rem;
-}
-.why-us .col-left {
-  width: 40%;
-}
+  .why-us .col-left {
+    width: 100%;
+  }
 
-.why-us .col-right {
-  width: 60%;
+  .why-us .col-right {
+    width: 100%;
+  }
 }
-
-.why-us li {
-  list-style: none;
-  margin-bottom: 2.5rem;
-} */
