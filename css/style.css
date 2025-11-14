@@ -129,9 +129,25 @@ img {
  ************************************************/
 
 /* Tablet: da 768px in giù */
-@media scren and (max-width: 768px) {
+@media screen and (max-width: 768px) {
+  /* .container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+  } */
+  .container {
+    max-width: 100%;
+  }
 }
 
 /* Mobile: da 480px in giù */
-@media scren and (max-width: 480px) {
+@media screen and (max-width: 480px) {
+  /* .container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+  } */
+  .container {
+    max-width: 100%;
+  }
 }
