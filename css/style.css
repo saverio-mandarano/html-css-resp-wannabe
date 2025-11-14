@@ -146,41 +146,14 @@ img {
     display: block;
   }
 
-  .why-us {
-    margin: 0;
-  }
-
+  .why-us,
   .steps {
     margin: 0;
-  }
-
-  /* generals */
-  /* h1 {
-    padding-bottom: 3rem;
-  }
-
-  h3 {
-    padding-bottom: 1rem;
-  }
-
-  h2 {
-    padding-bottom: 1rem;
-  } */
-
-  /* .steps {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  } */
-
-  /* sezione header */
-  .site-header {
-    padding-top: 3rem;
   }
 
   /* sezione lessons */
   .lessons .col {
     width: 100%;
-    /* margin-bottom: 5rem; */
   }
 
   .lessons .col img {
@@ -190,7 +163,6 @@ img {
   /* sezione steps */
   .steps .col {
     width: 100%;
-    /* margin-bottom: 5rem; */
   }
 
   .steps .col img {
@@ -198,14 +170,13 @@ img {
   }
 
   /* sezione why us */
-
   .why-us {
     padding-bottom: 4rem;
     background-color: rgb(34, 34, 34);
   }
 
   .why-us li {
-    padding-bottom: 4rem;
+    padding-bottom: 1rem;
   }
 
   .why-us .col-left {
@@ -214,16 +185,26 @@ img {
 
   .why-us .col-right {
     width: 100%;
-    padding-top: 4rem;
   }
 
-  .why-us h2 {
-    font-size: 3rem;
+  /* generali */
+  h2 {
+    font-size: 2.5rem;
+    padding-top: 3rem;
   }
-  .why-us h3 {
+  h3 {
     font-size: 2rem;
   }
-  .why-us p {
+  p {
     font-size: 1.3rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+
+  .col {
+    padding-bottom: 4rem;
   }
 }
