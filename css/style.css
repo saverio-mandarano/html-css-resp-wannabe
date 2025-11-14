@@ -167,7 +167,36 @@ img {
   }
 
   /* sezione why us */
-  .why-us {
+  /* body {
     background-color: rgb(34, 34, 34);
   }
+  header {
+    background-color: #232946;
+  } */
+
+  .why-us {
+    margin-bottom: 0;
+    padding-bottom: 8rem;
+    background-color: rgb(34, 34, 34);
+  }
+
+  .why-us li {
+    margin-bottom: 0;
+  }
 }
+
+/* .why-us {
+  margin-bottom: 3rem;
+}
+.why-us .col-left {
+  width: 40%;
+}
+
+.why-us .col-right {
+  width: 60%;
+}
+
+.why-us li {
+  list-style: none;
+  margin-bottom: 2.5rem;
+} */
