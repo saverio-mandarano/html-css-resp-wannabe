@@ -133,11 +133,15 @@ img {
   .container {
     max-width: 100%;
   }
+
+  .why-us p {
+    font-size: 0.95rem;
+  }
 }
 
 /* Mobile: da 480px in giù */
-
 @media screen and (max-width: 500px) {
+  /*non 480px perchè chrome min.ext. è 500px da me */
   .container {
     max-width: 100%;
   }
