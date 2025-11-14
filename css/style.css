@@ -139,7 +139,7 @@ img {
 
 @media screen and (max-width: 500px) {
   .container {
-    max-width: 99%;
+    max-width: 100%;
   }
 
   .row {
@@ -191,5 +191,19 @@ img {
 
   .why-us .col-right {
     width: 100%;
+    padding-top: 4rem;
+  }
+
+  .why-us h2 {
+    font-size: 3rem;
+  }
+  .why-us h3 {
+    font-size: 2rem;
+  }
+  .why-us p {
+    font-size: 1.3rem;
   }
 }
+/* <div class="col col-left">
+              <img src="./img/why.svg" alt="Perchè scegliere Boolean Academy" />
+</div> */
