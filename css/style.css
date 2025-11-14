@@ -167,4 +167,7 @@ img {
   }
 
   /* sezione why us */
+  .why-us {
+    background-color: rgb(34, 34, 34);
+  }
 }
