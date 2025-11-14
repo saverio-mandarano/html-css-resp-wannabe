@@ -146,6 +146,30 @@ img {
     display: block;
   }
 
+  /* generals */
+  h1 {
+    padding-bottom: 3rem;
+  }
+
+  h3 {
+    padding-bottom: 1rem;
+  }
+
+  h2 {
+    padding-bottom: 1rem;
+  }
+
+  .steps {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  /* sezione header */
+  .site-header {
+    padding-top: 3rem;
+    margin-top: 0;
+  }
+
   /* sezione lessons */
   .lessons .col {
     width: 100%;
@@ -167,21 +191,16 @@ img {
   }
 
   /* sezione why us */
-  /* body {
-    background-color: rgb(34, 34, 34);
+  * {
+    margin: 0;
   }
-  header {
-    background-color: #232946;
-  } */
 
   .why-us {
-    margin-bottom: 0;
     padding-bottom: 4rem;
     background-color: rgb(34, 34, 34);
   }
 
   .why-us li {
-    margin-bottom: 0;
     padding-bottom: 4rem;
   }
 
