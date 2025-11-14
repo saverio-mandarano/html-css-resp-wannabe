@@ -146,8 +146,16 @@ img {
     display: block;
   }
 
+  .why-us {
+    margin: 0;
+  }
+
+  .steps {
+    margin: 0;
+  }
+
   /* generals */
-  h1 {
+  /* h1 {
     padding-bottom: 3rem;
   }
 
@@ -157,23 +165,22 @@ img {
 
   h2 {
     padding-bottom: 1rem;
-  }
+  } */
 
-  .steps {
+  /* .steps {
     padding-top: 3rem;
     padding-bottom: 3rem;
-  }
+  } */
 
   /* sezione header */
   .site-header {
     padding-top: 3rem;
-    margin-top: 0;
   }
 
   /* sezione lessons */
   .lessons .col {
     width: 100%;
-    margin-bottom: 5rem;
+    /* margin-bottom: 5rem; */
   }
 
   .lessons .col img {
@@ -183,7 +190,7 @@ img {
   /* sezione steps */
   .steps .col {
     width: 100%;
-    margin-bottom: 5rem;
+    /* margin-bottom: 5rem; */
   }
 
   .steps .col img {
@@ -191,9 +198,6 @@ img {
   }
 
   /* sezione why us */
-  * {
-    margin: 0;
-  }
 
   .why-us {
     padding-bottom: 4rem;
@@ -223,6 +227,3 @@ img {
     font-size: 1.3rem;
   }
 }
-/* <div class="col col-left">
-              <img src="./img/why.svg" alt="Perchè scegliere Boolean Academy" />
-</div> */
